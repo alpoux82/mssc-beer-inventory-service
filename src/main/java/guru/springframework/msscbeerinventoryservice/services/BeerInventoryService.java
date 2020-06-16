@@ -1,6 +1,6 @@
 package guru.springframework.msscbeerinventoryservice.services;
 
-import guru.springframework.msscbeerinventoryservice.web.model.BeerInventoryDto;
+import guru.sfg.brewery.model.BeerInventoryDto;
 
 import java.util.List;
 import java.util.UUID;

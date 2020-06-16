@@ -1,7 +1,7 @@
 package guru.springframework.msscbeerinventoryservice.web.controllers;
 
 import guru.springframework.msscbeerinventoryservice.services.BeerInventoryService;
-import guru.springframework.msscbeerinventoryservice.web.model.BeerInventoryDto;
+import guru.sfg.brewery.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
